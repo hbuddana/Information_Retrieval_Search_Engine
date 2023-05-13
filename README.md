@@ -12,10 +12,10 @@ Evaluation of system: The system allows for evaluating the search results by com
 ## Usage
 Once the search engine is up and running, you can perform searches by following these steps:
 
-Enter your query in the search box on the search engine interface.
-Click the "Search" button or press Enter.
-The search engine will retrieve and rank relevant documents based on the query.
-View the search results, which will include the document title, snippet, and link.
+- Enter your query in the search box on the search engine interface.
+- Click the "Search" button or press Enter.
+- The search engine will retrieve and rank relevant documents based on the query.
+- View the search results, which will include the document title, snippet, and link.
 
 
 ## Evaluation
