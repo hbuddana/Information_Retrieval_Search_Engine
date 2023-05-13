@@ -21,7 +21,7 @@ View the search results, which will include the document title, snippet, and lin
 ## Evaluation
 To evaluate the search engine's performance, follow these steps:
 
-Select a word or query of your choice.
-Perform the same query on the original unt.edu search engine.
-Perform the query on your system using the search engine you've implemented.
-Compare the search results and note any discrepancies or differences.
+- Select a word or query of your choice.
+- Perform the same query on the original unt.edu search engine.
+- Perform the query on your system using the search engine you've implemented.
+- Compare the search results and note any discrepancies or differences.
