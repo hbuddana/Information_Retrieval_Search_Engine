@@ -1,4 +1,4 @@
-# Information_Retrieval_Search_Engine
+# Information_Retrieval Search Engine 🔍
 
 ## Search Engine for unt.edu
 This project implements a search engine for the University of North Texas (unt.edu) using a vector space retrieval model. The search engine crawls and parses web pages from unt.edu to build a dictionary of terms for efficient retrieval.
