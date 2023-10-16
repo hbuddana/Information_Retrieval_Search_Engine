@@ -18,7 +18,7 @@ Once the search engine is up and running, you can perform searches by following 
 - View the search results, which will include the document title, snippet, and link.
 
 
-## Evaluation
+## Evaluation 📑
 To evaluate the search engine's performance, follow these steps:
 
 - Select a word or query of your choice.
